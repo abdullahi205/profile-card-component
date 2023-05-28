@@ -7,8 +7,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/abdullahi205/profile-card-component)
+- Live Site URL: [Add live site URL here]( https://abdullahi205.github.io/profile-card-component/)
 
 ## My process
 
