@@ -10,7 +10,8 @@
 - Solution URL: [https://github.com/abdullahi205/profile-card-component]
 - Live Site URL: [https://abdullahi205.github.io/profile-card-component/]
 
-## My process
+
+
 
 ### Built with
 
@@ -19,7 +20,7 @@
 - Flexbox
 - 
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+
 
 ### What I learned
 I learned this project how to position background image and no repeat if it is the same. 
