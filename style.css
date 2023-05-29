@@ -8,7 +8,7 @@ body{
     min-height: 100vh;
     background-image: url(images/bg-pattern-top.svg), url(images/bg-pattern-bottom.svg);
     background-repeat: no-repeat, no-repeat;
-    background-position: right 50vw bottom 50vh, left 50vw top 50vh;
+    background-position: right 52vw bottom 35vh, left 48vw top 52vh;
    
 }
 
@@ -71,4 +71,8 @@ h2{
 .num{
     font-weight: 700;
     margin-bottom: 0;
+}
+.light-text{
+    opacity: 0.2;
+    font-size: 15px;
 }
